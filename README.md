@@ -9,3 +9,5 @@ Fork本项目，Secrets添加环境变量`USERNAME`和`PASSWORD`
 在Actions中运行
 
 不支持多用户，仅支持用户名+密码登录方式
+
+博客图文教程：https://www.locjj.com/bug/10.html
