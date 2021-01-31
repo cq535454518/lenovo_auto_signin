@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '25 10 * * *'
+    - cron: '34 14 * * *'
 
 jobs:
   auto_signin:
